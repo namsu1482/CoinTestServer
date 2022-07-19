@@ -1,0 +1,30 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="smartwalletTestServer:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/smartwalletTestServer_jar</output-path>
+    <root id="archive" name="smartwalletTestServer.jar">
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/src/main/java/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="module-output" name="smartwalletTestServer.main" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.8.5/f645ed69d595b24d4cf8b3fbb64cc505bede8829/gson-2.8.5.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.6.2/b51e9cf3b25a2f4116612d368d1aeba671fe1533/retrofit-2.6.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apiguardian/apiguardian-api/1.1.0/fc9dff4bb36d627bdc553de77e1f17efd790876c/apiguardian-api-1.1.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.oracle.ojdbc/osdt_cert/19.3.0.0/c134652fdcb17ff72963d386efd8ade902d2eaff/osdt_cert-19.3.0.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.junit.platform/junit-platform-engine/1.7.0/eadb73c5074a4ac71061defd00fc176152a4d12c/junit-platform-engine-1.7.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.junit.platform/junit-platform-commons/1.7.0/84e309fbf21d857aac079a3c1fffd84284e1114d/junit-platform-commons-1.7.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.junit.jupiter/junit-jupiter-api/5.7.0/b25f3815c4c1860a73041e733a14a0379d00c4d5/junit-jupiter-api-5.7.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.oracle.ojdbc/simplefan/19.3.0.0/bcbfbb3cc529995f33c8694eb7cbc605c129e4e6/simplefan-19.3.0.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.json/json/20171018/36ced462c97f0845b4a7b266a25cebe95d18baa3/json-20171018.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.oracle.ojdbc/ojdbc8/19.3.0.0/967c0b1a2d5b1435324de34a9b8018d294f8f47b/ojdbc8-19.3.0.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.15.0/bc28b5a964c8f5721eb58ee3f3c47a9bcbf4f4d8/okio-1.15.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.oracle.ojdbc/oraclepki/19.3.0.0/e52a34f271c6c62ee1a73b71cc19da5459b709f/oraclepki-19.3.0.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/converter-gson/2.6.2/c212ba1ef76db28d96768c74991343e4794b639f/converter-gson-2.6.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.oracle.ojdbc/ons/19.3.0.0/cf3f3ef525c61a27fe9952652a156ddd738b1cd5/ons-19.3.0.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.oracle.ojdbc/ucp/19.3.0.0/796b661b0bb1818b7c04171837356acddcea504c/ucp-19.3.0.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.junit.jupiter/junit-jupiter-engine/5.7.0/d9044d6b45e2232ddd53fa56c15333e43d1749fd/junit-jupiter-engine-5.7.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.12.0/b36f4a04584c0fb0d9af2d3401cdff8dacb1ea54/okhttp-3.12.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.opentest4j/opentest4j/1.2.0/28c11eb91f9b6d8e200631d46e20a7f407f2a046/opentest4j-1.2.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.oracle.ojdbc/osdt_core/19.3.0.0/2e01c262879c97de876c238966eb1da48542f2e8/osdt_core-19.3.0.0.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

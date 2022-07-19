@@ -1,0 +1,33 @@
+plugins {
+    id 'java'
+}
+
+group 'org.example'
+version '1.0-SNAPSHOT'
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    implementation 'commons-codec:commons-codec:1.15'
+    testImplementation 'org.junit.jupiter:junit-jupiter-api:5.7.0'
+    testRuntimeOnly 'org.junit.jupiter:junit-jupiter-engine:5.7.0'
+    implementation 'org.json:json:20171018'
+    implementation 'com.oracle.ojdbc:ojdbc8:19.3.0.0'
+
+    implementation 'com.squareup.retrofit2:retrofit:2.6.0'
+    implementation 'com.squareup.retrofit2:converter-gson:2.6.2'
+
+//    implementation 'org.web3j:core:4.8.4'
+    implementation group: 'org.bouncycastle', name: 'bcprov-jdk15on', version: '1.69'
+
+    // https://mvnrepository.com/artifact/org.bitcoinj/bitcoinj-core
+    implementation group: 'org.bitcoinj', name: 'bitcoinj-core', version: '0.15.10'
+
+
+}
+
+test {
+    useJUnitPlatform()
+}

@@ -1,0 +1,8 @@
+{
+  "uri": "http://211.41.109.56:38332/wallet/smavis1",
+  "method": "POST",
+  "body": "",
+  "headers": {
+    "Content-Type": "application/json"
+  }
+}
